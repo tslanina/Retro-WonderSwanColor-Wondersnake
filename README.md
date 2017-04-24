@@ -1,5 +1,5 @@
 # Wondersnake
-Snake game for Wonderswan Color Console
+Snake game for Wonderswan Color Console (first released in 2007)
 ## Tech Infos
 * Wonderswan Color
 * NEC V30MZ 16 bit CPU (80186 compatible) 
@@ -14,5 +14,4 @@ Snake game for Wonderswan Color Console
 ## Authors
 * **Tomasz Słanina** - [dox](https://github.com/tslanina)
 ## License
-(c) 2007 - 2017 Tomasz Słanina
 This project is licensed under the GPL v3 License - see the [LICENSE.md](LICENSE.md) file for details
