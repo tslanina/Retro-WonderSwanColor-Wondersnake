@@ -14,4 +14,5 @@ Snake game for Wonderswan Color Console
 ## Authors
 * **Tomasz Słanina** - [dox](https://github.com/tslanina)
 ## License
+(c) 2007 - 2017 Tomasz Słanina
 This project is licensed under the GPL v3 License - see the [LICENSE.md](LICENSE.md) file for details
